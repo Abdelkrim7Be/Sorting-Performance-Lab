@@ -1,0 +1,11 @@
+build/
+bin/
+obj/
+*.o
+*.exe
+*.out
+*.exe~
+*.depend
+*.layout
+.vscode/
+/results.png
