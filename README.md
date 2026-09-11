@@ -94,3 +94,4 @@ For nearly sorted data, insertion sort wins outright: linear time, no wasted wor
 ## License
 
 MIT license. Full text in [LICENSE](LICENSE).
+
